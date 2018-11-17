@@ -57,7 +57,7 @@ paginate = 10
     enable = true
     main_title = "<span>Join</span> the"
     second_title = "AP STATISTICS</br>POSTER COMPETITION"
-    sub_title = "hosted at Chapman University on April 7, 2018"
+    sub_title = "hosted at Chapman University on April 6, 2019"
     img = "img/top.jpg"
 
 [params.morea_about]
